@@ -1,0 +1,9 @@
+{
+	"auto_complete_triggers":
+    [
+        {
+            "characters": "ng-controller=\"*",
+            "selector": "punctuation.definition.string"
+        }
+    ]
+}    

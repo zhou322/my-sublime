@@ -1,0 +1,22 @@
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache",
+		"target",
+		".idea"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_font_xl": true,
+	"theme_icons_atomized": true,
+	"theme_statusbar_font_xl": true
+}
